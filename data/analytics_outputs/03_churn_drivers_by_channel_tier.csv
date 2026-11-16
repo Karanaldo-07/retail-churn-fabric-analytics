@@ -1,0 +1,21 @@
+acquisition_channel,loyalty_tier,total_customers,churned_customers,churn_rate_pct,avg_ltv,churned_historical_revenue
+Email Campaign,Gold,392,254.0,64.8,52149.12,10781247.09
+In-Store Walk-in,Platinum,464,294.0,63.36,53145.36,12258722.05
+Organic Search,Bronze,3461,2166.0,62.58,53226.52,87399016.35
+In-Store Walk-in,Gold,962,595.0,61.85,49913.61,21614107.72
+Instagram Ads,Bronze,2988,1839.0,61.55,51750.17,69605044.75
+Instagram Ads,Silver,1707,1046.0,61.28,51479.62,39596654.26
+Referral,Bronze,1543,940.0,60.92,53927.54,36824112.91
+Referral,Silver,846,515.0,60.87,56112.29,21869421.5
+Organic Search,Gold,1003,610.0,60.82,52899.29,24035752.63
+In-Store Walk-in,Silver,1825,1108.0,60.71,54561.7,44911625.58
+Referral,Gold,448,272.0,60.71,51894.73,11343769.04
+Instagram Ads,Gold,922,555.0,60.2,54973.4,23060840.77
+Referral,Platinum,224,134.0,59.82,54772.89,5676269.44
+Email Campaign,Silver,699,413.0,59.08,52518.02,15836016.71
+Organic Search,Silver,1926,1133.0,58.83,52856.58,43737851.74
+In-Store Walk-in,Bronze,3213,1882.0,58.57,54271.05,75060311.79
+Email Campaign,Bronze,1312,768.0,58.54,54969.85,30513136.88
+Instagram Ads,Platinum,413,240.0,58.11,52889.81,9678483.28
+Organic Search,Platinum,489,279.0,57.06,54801.19,11966613.19
+Email Campaign,Platinum,163,90.0,55.21,64033.01,4269729.5

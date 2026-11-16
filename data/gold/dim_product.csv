@@ -1,0 +1,241 @@
+product_key,product_id,product_name,category,unit_price,unit_cost,is_active,gross_margin_pct
+1,PRD-0001,Electronics Item 01,Electronics,17604.86,14366.57,1,18.39
+2,PRD-0002,Electronics Item 02,Electronics,27421.24,20633.98,1,24.75
+3,PRD-0003,Electronics Item 03,Electronics,3744.06,3030.05,1,19.07
+4,PRD-0004,Electronics Item 04,Electronics,32213.58,23891.1,1,25.84
+5,PRD-0005,Electronics Item 05,Electronics,37660.99,28508.88,1,24.3
+6,PRD-0006,Electronics Item 06,Electronics,9233.12,7057.24,1,23.57
+7,PRD-0007,Electronics Item 07,Electronics,20119.19,15356.94,1,23.67
+8,PRD-0008,Electronics Item 08,Electronics,7309.83,5580.12,1,23.66
+9,PRD-0009,Electronics Item 09,Electronics,21175.87,17000.29,1,19.72
+10,PRD-0010,Electronics Item 10,Electronics,23723.47,18679.7,0,21.26
+11,PRD-0011,Electronics Item 11,Electronics,27810.46,20959.13,1,24.64
+12,PRD-0012,Electronics Item 12,Electronics,42761.19,34946.61,1,18.27
+13,PRD-0013,Electronics Item 13,Electronics,14542.08,10874.77,1,25.22
+14,PRD-0014,Electronics Item 14,Electronics,20478.68,15354.16,1,25.02
+15,PRD-0015,Electronics Item 15,Electronics,2706.22,2199.47,1,18.73
+16,PRD-0016,Electronics Item 16,Electronics,30218.48,23115.23,1,23.51
+17,PRD-0017,Electronics Item 17,Electronics,25145.91,18979.84,1,24.52
+18,PRD-0018,Electronics Item 18,Electronics,35150.82,28653.54,1,18.48
+19,PRD-0019,Electronics Item 19,Electronics,27388.02,22287.0,1,18.63
+20,PRD-0020,Electronics Item 20,Electronics,9784.05,7275.6,1,25.64
+21,PRD-0021,Home Item 01,Home Appliances,14520.69,10624.9,1,26.83
+22,PRD-0022,Home Item 02,Home Appliances,13451.24,9852.69,1,26.75
+23,PRD-0023,Home Item 03,Home Appliances,6220.96,4816.12,1,22.58
+24,PRD-0024,Home Item 04,Home Appliances,34560.71,26673.25,1,22.82
+25,PRD-0025,Home Item 05,Home Appliances,1684.99,1306.27,1,22.48
+26,PRD-0026,Home Item 06,Home Appliances,25921.74,20003.85,1,22.83
+27,PRD-0027,Home Item 07,Home Appliances,13508.6,9716.32,1,28.07
+28,PRD-0028,Home Item 08,Home Appliances,22380.49,16482.6,1,26.35
+29,PRD-0029,Home Item 09,Home Appliances,11917.91,8771.76,1,26.4
+30,PRD-0030,Home Item 10,Home Appliances,22858.18,17851.71,1,21.9
+31,PRD-0031,Home Item 11,Home Appliances,5506.41,4223.74,1,23.29
+32,PRD-0032,Home Item 12,Home Appliances,20302.79,15667.2,1,22.83
+33,PRD-0033,Home Item 13,Home Appliances,19011.55,14148.46,0,25.58
+34,PRD-0034,Home Item 14,Home Appliances,5114.36,3644.05,1,28.75
+35,PRD-0035,Home Item 15,Home Appliances,12030.93,9031.45,1,24.93
+36,PRD-0036,Home Item 16,Home Appliances,9851.29,7317.84,1,25.72
+37,PRD-0037,Home Item 17,Home Appliances,9164.74,6563.41,1,28.38
+38,PRD-0038,Home Item 18,Home Appliances,6900.91,5412.91,1,21.56
+39,PRD-0039,Home Item 19,Home Appliances,22719.03,17714.41,1,22.03
+40,PRD-0040,Home Item 20,Home Appliances,7750.1,6055.96,1,21.86
+41,PRD-0041,Fashion Item 01,Fashion & Apparel,3710.5,2158.35,1,41.83
+42,PRD-0042,Fashion Item 02,Fashion & Apparel,851.21,449.64,1,47.18
+43,PRD-0043,Fashion Item 03,Fashion & Apparel,3753.86,2172.95,0,42.11
+44,PRD-0044,Fashion Item 04,Fashion & Apparel,2494.06,1355.25,1,45.66
+45,PRD-0045,Fashion Item 05,Fashion & Apparel,891.45,478.72,1,46.3
+46,PRD-0046,Fashion Item 06,Fashion & Apparel,1725.13,951.41,1,44.85
+47,PRD-0047,Fashion Item 07,Fashion & Apparel,1890.88,1111.35,1,41.23
+48,PRD-0048,Fashion Item 08,Fashion & Apparel,1432.31,787.46,1,45.02
+49,PRD-0049,Fashion Item 09,Fashion & Apparel,1567.85,804.23,1,48.7
+50,PRD-0050,Fashion Item 10,Fashion & Apparel,2460.98,1265.23,1,48.59
+51,PRD-0051,Fashion Item 11,Fashion & Apparel,4123.89,2182.22,1,47.08
+52,PRD-0052,Fashion Item 12,Fashion & Apparel,2406.76,1417.23,1,41.11
+53,PRD-0053,Fashion Item 13,Fashion & Apparel,3155.76,1801.72,1,42.91
+54,PRD-0054,Fashion Item 14,Fashion & Apparel,3385.69,1826.32,1,46.06
+55,PRD-0055,Fashion Item 15,Fashion & Apparel,2997.47,1657.19,1,44.71
+56,PRD-0056,Fashion Item 16,Fashion & Apparel,3824.74,2048.77,1,46.43
+57,PRD-0057,Fashion Item 17,Fashion & Apparel,567.18,316.07,1,44.27
+58,PRD-0058,Fashion Item 18,Fashion & Apparel,468.01,257.86,1,44.9
+59,PRD-0059,Fashion Item 19,Fashion & Apparel,3045.21,1595.54,1,47.6
+60,PRD-0060,Fashion Item 20,Fashion & Apparel,1985.61,1161.46,1,41.51
+61,PRD-0061,Footwear Item 01,Footwear,2441.76,1340.72,1,45.09
+62,PRD-0062,Footwear Item 02,Footwear,5337.63,2992.46,1,43.94
+63,PRD-0063,Footwear Item 03,Footwear,5013.0,2929.68,1,41.56
+64,PRD-0064,Footwear Item 04,Footwear,1906.0,1043.44,1,45.25
+65,PRD-0065,Footwear Item 05,Footwear,5462.26,3226.27,1,40.94
+66,PRD-0066,Footwear Item 06,Footwear,2485.73,1486.66,1,40.19
+67,PRD-0067,Footwear Item 07,Footwear,5390.27,3247.04,1,39.76
+68,PRD-0068,Footwear Item 08,Footwear,1054.36,582.99,1,44.71
+69,PRD-0069,Footwear Item 09,Footwear,3874.72,2095.2,1,45.93
+70,PRD-0070,Footwear Item 10,Footwear,4182.91,2260.47,1,45.96
+71,PRD-0071,Footwear Item 11,Footwear,3563.16,2121.33,1,40.46
+72,PRD-0072,Footwear Item 12,Footwear,1811.05,1081.15,1,40.3
+73,PRD-0073,Footwear Item 13,Footwear,2357.16,1413.63,1,40.03
+74,PRD-0074,Footwear Item 14,Footwear,5185.81,3073.16,1,40.74
+75,PRD-0075,Footwear Item 15,Footwear,1105.84,629.68,1,43.06
+76,PRD-0076,Footwear Item 16,Footwear,1917.54,1184.73,1,38.22
+77,PRD-0077,Footwear Item 17,Footwear,5417.05,3198.72,1,40.95
+78,PRD-0078,Footwear Item 18,Footwear,3314.24,1942.65,1,41.38
+79,PRD-0079,Footwear Item 19,Footwear,1654.31,988.94,1,40.22
+80,PRD-0080,Footwear Item 20,Footwear,731.31,432.67,1,40.84
+81,PRD-0081,Groceries Item 01,Groceries & Staples,1133.31,970.47,1,14.37
+82,PRD-0082,Groceries Item 02,Groceries & Staples,494.58,386.38,1,21.88
+83,PRD-0083,Groceries Item 03,Groceries & Staples,559.57,479.74,1,14.27
+84,PRD-0084,Groceries Item 04,Groceries & Staples,1035.37,831.98,1,19.64
+85,PRD-0085,Groceries Item 05,Groceries & Staples,1033.27,832.15,1,19.46
+86,PRD-0086,Groceries Item 06,Groceries & Staples,703.62,601.52,1,14.51
+87,PRD-0087,Groceries Item 07,Groceries & Staples,718.47,565.99,1,21.22
+88,PRD-0088,Groceries Item 08,Groceries & Staples,1188.86,940.63,1,20.88
+89,PRD-0089,Groceries Item 09,Groceries & Staples,1062.66,891.85,1,16.07
+90,PRD-0090,Groceries Item 10,Groceries & Staples,866.78,701.02,1,19.12
+91,PRD-0091,Groceries Item 11,Groceries & Staples,986.48,833.39,1,15.52
+92,PRD-0092,Groceries Item 12,Groceries & Staples,1102.83,905.32,1,17.91
+93,PRD-0093,Groceries Item 13,Groceries & Staples,974.09,810.44,1,16.8
+94,PRD-0094,Groceries Item 14,Groceries & Staples,971.29,826.76,1,14.88
+95,PRD-0095,Groceries Item 15,Groceries & Staples,500.65,394.27,1,21.25
+96,PRD-0096,Groceries Item 16,Groceries & Staples,120.26,98.28,1,18.28
+97,PRD-0097,Groceries Item 17,Groceries & Staples,400.93,331.68,0,17.27
+98,PRD-0098,Groceries Item 18,Groceries & Staples,121.83,103.04,1,15.42
+99,PRD-0099,Groceries Item 19,Groceries & Staples,222.31,182.69,1,17.82
+100,PRD-0100,Groceries Item 20,Groceries & Staples,321.72,266.97,1,17.02
+101,PRD-0101,Personal Item 01,Personal Care & Beauty,286.96,149.94,1,47.75
+102,PRD-0102,Personal Item 02,Personal Care & Beauty,1839.19,989.64,1,46.19
+103,PRD-0103,Personal Item 03,Personal Care & Beauty,1518.2,767.96,1,49.42
+104,PRD-0104,Personal Item 04,Personal Care & Beauty,867.71,446.97,1,48.49
+105,PRD-0105,Personal Item 05,Personal Care & Beauty,217.18,120.97,1,44.3
+106,PRD-0106,Personal Item 06,Personal Care & Beauty,1994.33,1022.53,1,48.73
+107,PRD-0107,Personal Item 07,Personal Care & Beauty,564.56,282.29,1,50.0
+108,PRD-0108,Personal Item 08,Personal Care & Beauty,2043.68,1088.9,1,46.72
+109,PRD-0109,Personal Item 09,Personal Care & Beauty,2680.39,1444.82,1,46.1
+110,PRD-0110,Personal Item 10,Personal Care & Beauty,1771.06,909.56,1,48.64
+111,PRD-0111,Personal Item 11,Personal Care & Beauty,1093.33,591.08,0,45.94
+112,PRD-0112,Personal Item 12,Personal Care & Beauty,457.59,221.33,0,51.63
+113,PRD-0113,Personal Item 13,Personal Care & Beauty,2416.97,1296.2,1,46.37
+114,PRD-0114,Personal Item 14,Personal Care & Beauty,409.26,212.54,1,48.07
+115,PRD-0115,Personal Item 15,Personal Care & Beauty,608.98,313.45,1,48.53
+116,PRD-0116,Personal Item 16,Personal Care & Beauty,1782.0,945.9,0,46.92
+117,PRD-0117,Personal Item 17,Personal Care & Beauty,1142.72,605.72,1,46.99
+118,PRD-0118,Personal Item 18,Personal Care & Beauty,2419.7,1288.96,1,46.73
+119,PRD-0119,Personal Item 19,Personal Care & Beauty,337.01,179.08,0,46.86
+120,PRD-0120,Personal Item 20,Personal Care & Beauty,1702.31,945.15,1,44.48
+121,PRD-0121,Sports Item 01,Sports & Fitness,6128.46,4053.75,1,33.85
+122,PRD-0122,Sports Item 02,Sports & Fitness,8411.44,5764.5,1,31.47
+123,PRD-0123,Sports Item 03,Sports & Fitness,14437.26,9852.39,1,31.76
+124,PRD-0124,Sports Item 04,Sports & Fitness,1505.74,930.64,0,38.19
+125,PRD-0125,Sports Item 05,Sports & Fitness,1869.42,1242.49,1,33.54
+126,PRD-0126,Sports Item 06,Sports & Fitness,5125.15,3472.75,0,32.24
+127,PRD-0127,Sports Item 07,Sports & Fitness,12309.79,7786.54,1,36.75
+128,PRD-0128,Sports Item 08,Sports & Fitness,10602.69,7001.12,1,33.97
+129,PRD-0129,Sports Item 09,Sports & Fitness,11158.53,7523.96,1,32.57
+130,PRD-0130,Sports Item 10,Sports & Fitness,3072.87,2058.97,1,33.0
+131,PRD-0131,Sports Item 11,Sports & Fitness,14862.32,9556.61,1,35.7
+132,PRD-0132,Sports Item 12,Sports & Fitness,11757.99,7492.95,1,36.27
+133,PRD-0133,Sports Item 13,Sports & Fitness,12946.98,8341.99,1,35.57
+134,PRD-0134,Sports Item 14,Sports & Fitness,11440.87,7073.32,1,38.17
+135,PRD-0135,Sports Item 15,Sports & Fitness,7826.16,5291.4,1,32.39
+136,PRD-0136,Sports Item 16,Sports & Fitness,13485.09,8645.78,0,35.89
+137,PRD-0137,Sports Item 17,Sports & Fitness,13628.04,8412.63,1,38.27
+138,PRD-0138,Sports Item 18,Sports & Fitness,14275.9,9793.96,1,31.4
+139,PRD-0139,Sports Item 19,Sports & Fitness,9661.64,6240.22,1,35.41
+140,PRD-0140,Sports Item 20,Sports & Fitness,5265.64,3495.34,1,33.62
+141,PRD-0141,Books Item 01,Books & Stationery,1212.38,779.77,1,35.68
+142,PRD-0142,Books Item 02,Books & Stationery,802.3,469.03,1,41.54
+143,PRD-0143,Books Item 03,Books & Stationery,729.31,474.79,1,34.9
+144,PRD-0144,Books Item 04,Books & Stationery,281.55,166.52,1,40.86
+145,PRD-0145,Books Item 05,Books & Stationery,973.14,572.29,1,41.19
+146,PRD-0146,Books Item 06,Books & Stationery,1087.34,636.99,1,41.42
+147,PRD-0147,Books Item 07,Books & Stationery,1094.61,642.0,1,41.35
+148,PRD-0148,Books Item 08,Books & Stationery,1481.56,903.67,1,39.01
+149,PRD-0149,Books Item 09,Books & Stationery,1241.66,814.26,1,34.42
+150,PRD-0150,Books Item 10,Books & Stationery,1159.66,707.51,1,38.99
+151,PRD-0151,Books Item 11,Books & Stationery,1192.46,744.9,1,37.53
+152,PRD-0152,Books Item 12,Books & Stationery,1370.77,807.24,1,41.11
+153,PRD-0153,Books Item 13,Books & Stationery,135.67,83.78,1,38.25
+154,PRD-0154,Books Item 14,Books & Stationery,283.97,167.37,1,41.06
+155,PRD-0155,Books Item 15,Books & Stationery,1149.54,720.38,1,37.33
+156,PRD-0156,Books Item 16,Books & Stationery,637.32,384.21,1,39.71
+157,PRD-0157,Books Item 17,Books & Stationery,428.56,281.59,0,34.29
+158,PRD-0158,Books Item 18,Books & Stationery,1458.43,850.93,1,41.65
+159,PRD-0159,Books Item 19,Books & Stationery,848.23,559.35,1,34.06
+160,PRD-0160,Books Item 20,Books & Stationery,884.32,581.48,1,34.25
+161,PRD-0161,Kitchen Item 01,Kitchen & Dining,5127.84,3362.12,1,34.43
+162,PRD-0162,Kitchen Item 02,Kitchen & Dining,5113.58,3307.18,1,35.33
+163,PRD-0163,Kitchen Item 03,Kitchen & Dining,602.21,374.86,1,37.75
+164,PRD-0164,Kitchen Item 04,Kitchen & Dining,7149.54,4550.34,1,36.35
+165,PRD-0165,Kitchen Item 05,Kitchen & Dining,2399.7,1475.93,1,38.5
+166,PRD-0166,Kitchen Item 06,Kitchen & Dining,2988.48,1932.63,1,35.33
+167,PRD-0167,Kitchen Item 07,Kitchen & Dining,7801.56,5296.45,1,32.11
+168,PRD-0168,Kitchen Item 08,Kitchen & Dining,4404.75,2751.92,1,37.52
+169,PRD-0169,Kitchen Item 09,Kitchen & Dining,5556.67,3406.29,1,38.7
+170,PRD-0170,Kitchen Item 10,Kitchen & Dining,6624.66,4478.16,1,32.4
+171,PRD-0171,Kitchen Item 11,Kitchen & Dining,5003.97,3169.81,1,36.65
+172,PRD-0172,Kitchen Item 12,Kitchen & Dining,6962.0,4202.38,0,39.64
+173,PRD-0173,Kitchen Item 13,Kitchen & Dining,3167.59,2105.95,1,33.52
+174,PRD-0174,Kitchen Item 14,Kitchen & Dining,1415.73,916.73,1,35.25
+175,PRD-0175,Kitchen Item 15,Kitchen & Dining,7766.84,5183.35,1,33.26
+176,PRD-0176,Kitchen Item 16,Kitchen & Dining,3882.37,2458.26,1,36.68
+177,PRD-0177,Kitchen Item 17,Kitchen & Dining,686.91,459.66,1,33.08
+178,PRD-0178,Kitchen Item 18,Kitchen & Dining,7997.81,5436.36,1,32.03
+179,PRD-0179,Kitchen Item 19,Kitchen & Dining,6209.65,4195.12,1,32.44
+180,PRD-0180,Kitchen Item 20,Kitchen & Dining,2166.95,1378.27,1,36.4
+181,PRD-0181,Furniture Item 01,Furniture & Decor,26796.14,18448.98,1,31.15
+182,PRD-0182,Furniture Item 02,Furniture & Decor,19398.56,13374.34,1,31.05
+183,PRD-0183,Furniture Item 03,Furniture & Decor,4775.21,3312.69,1,30.63
+184,PRD-0184,Furniture Item 04,Furniture & Decor,22034.74,15019.17,1,31.84
+185,PRD-0185,Furniture Item 05,Furniture & Decor,16259.96,11136.04,1,31.51
+186,PRD-0186,Furniture Item 06,Furniture & Decor,12371.25,8050.23,0,34.93
+187,PRD-0187,Furniture Item 07,Furniture & Decor,21584.6,14885.27,1,31.04
+188,PRD-0188,Furniture Item 08,Furniture & Decor,7379.66,4803.49,0,34.91
+189,PRD-0189,Furniture Item 09,Furniture & Decor,10985.39,7549.09,1,31.28
+190,PRD-0190,Furniture Item 10,Furniture & Decor,13261.84,9446.84,1,28.77
+191,PRD-0191,Furniture Item 11,Furniture & Decor,15266.52,10727.67,1,29.73
+192,PRD-0192,Furniture Item 12,Furniture & Decor,18098.67,12831.76,1,29.1
+193,PRD-0193,Furniture Item 13,Furniture & Decor,5653.33,4037.2,1,28.59
+194,PRD-0194,Furniture Item 14,Furniture & Decor,8566.0,5796.88,1,32.33
+195,PRD-0195,Furniture Item 15,Furniture & Decor,14706.59,9799.0,1,33.37
+196,PRD-0196,Furniture Item 16,Furniture & Decor,8091.82,5227.87,1,35.39
+197,PRD-0197,Furniture Item 17,Furniture & Decor,5154.8,3361.71,1,34.78
+198,PRD-0198,Furniture Item 18,Furniture & Decor,18590.92,12168.69,1,34.54
+199,PRD-0199,Furniture Item 19,Furniture & Decor,25295.86,17148.49,1,32.21
+200,PRD-0200,Furniture Item 20,Furniture & Decor,6314.78,4138.6,0,34.46
+201,PRD-0201,Baby Item 01,Baby & Kids,1178.46,686.2,1,41.77
+202,PRD-0202,Baby Item 02,Baby & Kids,761.25,433.65,1,43.03
+203,PRD-0203,Baby Item 03,Baby & Kids,1372.94,808.86,1,41.09
+204,PRD-0204,Baby Item 04,Baby & Kids,3890.05,2190.66,1,43.69
+205,PRD-0205,Baby Item 05,Baby & Kids,3565.08,2019.76,1,43.35
+206,PRD-0206,Baby Item 06,Baby & Kids,5088.54,2874.45,1,43.51
+207,PRD-0207,Baby Item 07,Baby & Kids,4492.25,2784.57,1,38.01
+208,PRD-0208,Baby Item 08,Baby & Kids,1388.62,818.78,1,41.04
+209,PRD-0209,Baby Item 09,Baby & Kids,3514.92,2072.09,1,41.05
+210,PRD-0210,Baby Item 10,Baby & Kids,4186.85,2356.92,1,43.71
+211,PRD-0211,Baby Item 11,Baby & Kids,4009.42,2532.42,1,36.84
+212,PRD-0212,Baby Item 12,Baby & Kids,3066.99,1743.81,1,43.14
+213,PRD-0213,Baby Item 13,Baby & Kids,3069.61,1778.52,1,42.06
+214,PRD-0214,Baby Item 14,Baby & Kids,2261.88,1270.28,1,43.84
+215,PRD-0215,Baby Item 15,Baby & Kids,1399.53,820.4,1,41.38
+216,PRD-0216,Baby Item 16,Baby & Kids,4930.74,2995.36,1,39.25
+217,PRD-0217,Baby Item 17,Baby & Kids,4403.69,2641.67,1,40.01
+218,PRD-0218,Baby Item 18,Baby & Kids,3092.95,1877.26,1,39.31
+219,PRD-0219,Baby Item 19,Baby & Kids,2544.63,1450.96,1,42.98
+220,PRD-0220,Baby Item 20,Baby & Kids,2188.03,1338.36,1,38.83
+221,PRD-0221,Automotive Item 01,Automotive Accessories,2831.7,1979.14,1,30.11
+222,PRD-0222,Automotive Item 02,Automotive Accessories,1969.89,1237.37,1,37.19
+223,PRD-0223,Automotive Item 03,Automotive Accessories,2033.19,1286.71,1,36.71
+224,PRD-0224,Automotive Item 04,Automotive Accessories,2316.94,1468.64,1,36.61
+225,PRD-0225,Automotive Item 05,Automotive Accessories,831.69,550.55,1,33.8
+226,PRD-0226,Automotive Item 06,Automotive Accessories,7372.24,4636.87,1,37.1
+227,PRD-0227,Automotive Item 07,Automotive Accessories,7278.66,5016.75,1,31.08
+228,PRD-0228,Automotive Item 08,Automotive Accessories,2119.8,1343.26,1,36.63
+229,PRD-0229,Automotive Item 09,Automotive Accessories,6987.98,4643.8,1,33.55
+230,PRD-0230,Automotive Item 10,Automotive Accessories,2279.85,1553.85,1,31.84
+231,PRD-0231,Automotive Item 11,Automotive Accessories,2596.67,1698.31,1,34.6
+232,PRD-0232,Automotive Item 12,Automotive Accessories,2007.47,1263.07,1,37.08
+233,PRD-0233,Automotive Item 13,Automotive Accessories,2342.57,1561.32,1,33.35
+234,PRD-0234,Automotive Item 14,Automotive Accessories,3738.27,2477.0,1,33.74
+235,PRD-0235,Automotive Item 15,Automotive Accessories,2690.38,1696.97,1,36.92
+236,PRD-0236,Automotive Item 16,Automotive Accessories,7427.21,4796.41,1,35.42
+237,PRD-0237,Automotive Item 17,Automotive Accessories,2096.14,1413.89,1,32.55
+238,PRD-0238,Automotive Item 18,Automotive Accessories,4568.38,3004.74,1,34.23
+239,PRD-0239,Automotive Item 19,Automotive Accessories,2779.29,1929.83,1,30.56
+240,PRD-0240,Automotive Item 20,Automotive Accessories,7246.45,4564.86,1,37.01

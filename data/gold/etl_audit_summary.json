@@ -1,0 +1,10 @@
+{
+  "pipeline_run_timestamp": "2026-11-16 10:55:58",
+  "raw_transactions": 152088,
+  "duplicates_removed": 500,
+  "quarantined_rows": 1244,
+  "gold_fact_sales_rows": 150344,
+  "total_customers": 25000,
+  "churned_customers": 15133,
+  "overall_churn_rate_pct": 60.53
+}

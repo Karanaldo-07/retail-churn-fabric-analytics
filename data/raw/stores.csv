@@ -1,0 +1,16 @@
+store_id,store_name,region,city,state,store_tier
+STR-01,Mumbai Flagship,West,Mumbai,Maharashtra,Metro
+STR-02,Pune Koregaon Park,West,Pune,Maharashtra,Metro
+STR-03,Pune Hinjewadi,West,Pune,Maharashtra,Urban
+STR-04,Ahmedabad SG Highway,West,Ahmedabad,Gujarat,Metro
+STR-05,Bengaluru Indiranagar,South,Bengaluru,Karnataka,Metro
+STR-06,Bengaluru Whitefield,South,Bengaluru,Karnataka,Metro
+STR-07,Hyderabad Banjara Hills,South,Hyderabad,Telangana,Metro
+STR-08,Chennai Anna Nagar,South,Chennai,Tamil Nadu,Metro
+STR-09,Delhi Connaught Place,North,New Delhi,Delhi,Metro
+STR-10,Gurugram Cyber Hub,North,Gurugram,Haryana,Metro
+STR-11,Noida Sector 18,North,Noida,Uttar Pradesh,Urban
+STR-12,Jaipur MI Road,North,Jaipur,Rajasthan,Tier-2
+STR-13,Kolkata Park Street,East,Kolkata,West Bengal,Metro
+STR-14,Bhubaneswar Janpath,East,Bhubaneswar,Odisha,Tier-2
+STR-15,Online E-Commerce Hub,Pan-India,Digital,National,Digital
