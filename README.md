@@ -1,4 +1,4 @@
-# End-to-End Retail Sales & Customer Churn Analytics (Microsoft Fabric & Power BI)
+﻿# End-to-End Retail Sales & Customer Churn Analytics (Microsoft Fabric & Power BI)
 
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse%20%26%20Warehouse-0078D4?logo=microsoft)](https://learn.microsoft.com/en-us/fabric/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -46,15 +46,15 @@ An end-to-end data engineering and business intelligence solution built on the *
 ## Repository Structure
 ```text
 retail-churn-fabric-analytics/
-├── generate_retail_data.py          # Synthetic 152K+ row multi-store retail data generator
-├── 01_medallion_lakehouse_etl.py    # Bronze -> Silver -> Gold Star Schema ETL pipeline
-├── 02_warehouse_analytics.sql       # T-SQL / DuckDB queries (RFM, Cohorts, Churn, Margins)
-├── 02_run_sql_analytics.py          # Zero-copy Parquet SQL warehouse execution script
-├── 03_powerbi_dax_guide.md          # Power BI relationship model, DAX formulas & layout guide
-├── data/
-│   ├── gold/etl_audit_summary.json  # Automated pipeline row counts & data quality audit
-│   └── analytics_outputs/           # Exported SQL analytical tables (RFM, Cohorts, Churn)
-└── README.md
+â”œâ”€â”€ generate_retail_data.py          # Synthetic 152K+ row multi-store retail data generator
+â”œâ”€â”€ 01_medallion_lakehouse_etl.py    # Bronze -> Silver -> Gold Star Schema ETL pipeline
+â”œâ”€â”€ 02_warehouse_analytics.sql       # T-SQL / DuckDB queries (RFM, Cohorts, Churn, Margins)
+â”œâ”€â”€ 02_run_sql_analytics.py          # Zero-copy Parquet SQL warehouse execution script
+â”œâ”€â”€ 03_powerbi_dax_guide.md          # Power BI relationship model, DAX formulas & layout guide
+â”œâ”€â”€ data/
+â”‚   â”œâ”€â”€ gold/etl_audit_summary.json  # Automated pipeline row counts & data quality audit
+â”‚   â””â”€â”€ analytics_outputs/           # Exported SQL analytical tables (RFM, Cohorts, Churn)
+â””â”€â”€ README.md
 ```
 
 ---
@@ -72,14 +72,7 @@ python 01_medallion_lakehouse_etl.py
 
 # 4. Run Warehouse SQL queries (RFM, Cohort Retention, Churn Drivers)
 python 02_run_sql_analytics.py
-```
----
-## Power BI Executive Dashboard Preview
-### 1. Executive Sales & Category Performance
-![Executive Sales Dashboard](screenshots/page1_sales.png)
-### 2. Customer Churn & Cohort Retention Analytics
-![Customer Churn Dashboard](screenshots/page2_churn.png)
----
+```---
 ## Power BI Executive Dashboard Preview
 ### 1. Executive Sales & Category Performance
 ![Executive Sales Dashboard](screenshots/page1_sales.png)
