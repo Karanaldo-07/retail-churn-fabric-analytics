@@ -79,3 +79,9 @@ python 02_run_sql_analytics.py
 ![Executive Sales Dashboard](screenshots/page1_sales.png)
 ### 2. Customer Churn & Cohort Retention Analytics
 ![Customer Churn Dashboard](screenshots/page2_churn.png)
+---
+## Power BI Executive Dashboard Preview
+### 1. Executive Sales & Category Performance
+![Executive Sales Dashboard](screenshots/page1_sales.png)
+### 2. Customer Churn & Cohort Retention Analytics
+![Customer Churn Dashboard](screenshots/page2_churn.png)
